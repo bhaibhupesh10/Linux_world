@@ -1,0 +1,154 @@
+python tasks:
+
+---------------
+task1: 
+Create a program in python 
+Create inquiry form Take input 
+ - name
+ - contact no
+ - mail id
+ - query  
+
+task2:
+connect to 5 people nearby, ask their personal 
+details like
+ - name
+ - cityx
+ - college name
+ - email id
+ - insta profile
+
+and store the entire info in data structure "dictionary" 
+with variable name of "dictionary" is "lwdb"
+and then convert same dictionary into pandas data frame with 
+variable name of "lwdbfinal"
+
+
+
+
+
+
+
+task3:
+print only all "name" and "email" from variable "lwdbfinal" in one statement
+
+print insta profile and name  of only record number 2 to 4 only
+
+task4:
+Create python program menu.py so that
+When anyone run
+We present with 4 options, like
+Press 1: to start notepad
+Press 2: to start chrome or firefox
+Press 3: to start vlc player or any other player
+Press 4: if ask input which url to open in browser, and when we give url, it open that website in browser
+ 
+
+task5:
+In tasks2 , you got some data, now you have create program, that help you to search entire information about particular person by asking their name means “Search by Name”
+
+
+
+
+
+
+
+—---------------------------------------------------------------------------
+
+linux tasks:
+
+--------------
+task1:
+create folder name "linuxworld"
+and inside this folder
+create 1000 file name like
+student1.txt, student2.txt, so no
+
+task2:
+create user name "vimal" with password "lwpass"
+
+from laptop1 connect remote login to laptop2
+with user "vimal"
+
+and launch firefox in laptop2
+
+task3:
+Run date command and output with speak by speaker
+Also “Welcome to Linux World” speak by speaker
+
+task4:
+Configure yum from you iso file in local rhel9 in you laptop, if already configured, then remove yum repo file and again create it and install any one software with yum
+
+
+
+
+Full Stack Task:
+—--------------------
+
+task1:
+Create html web page
+Create form that ask 
+Username
+    -	Password
+    -  Birth date
+    -  Phone
+    -  Email
+    -  City
+
+task2:
+Create html form  for search, ask input as search term
+And connect to google search as backend for searching
+
+task3:
+Create online html interpreter
+
+task4:
+Go to youtube any page, and write javascript code in address bar, to count total link in current page
+
+task5:
+Go to any website, pick any image presented their in website and replace with your image from your laptop
+
+
+
+Machine Learning Tasks
+—-------------------------------
+
+Task1:
+Discuss to your team and create one scenerio or problem statement, means you want to predict (y) and on which it depend (x)
+
+Eg: let say you want to predict marks(y) and it depend on hrs of study (x) - NOT USE THIS SCENARIO, create you new idea
+
+Then collect real data , atleast 20 record, by creating google form, by circulating to you circle
+
+Load above create data into python and print entire record
+
+Task2:
+Create simple linear regression model of above dataset for prediction on some new value of “x” 
+
+Task3:
+Save model into file and give to your team member so that they can load in their laptop and use to predict on some value of “x”, without creating model from the scratch
+
+
+
+
+
+
+AWS Cloud Tasks:
+—-----------------------
+
+task1:
+Create aws account
+Launch one redhat linux with key
+
+Login from you laptop using ssh to that instance
+
+And host one website
+
+task2: (only done by team, who has full stack in your program)
+
+Host one more web page that is task given in full stack task3 , live html interpreter
+
+
+task3:
+Launch amazon linux with python boto3
+
