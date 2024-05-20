@@ -1,0 +1,175 @@
+GUI, CLI, Web UI ( user can only interact with)
+	
+	COCKPIT (is a program we can use anywhere)
+
+	generative AI ops ( prompt or cmd will open the programs)
+
+	OS. WE ARE USING IS rhel9
+
+	You can use anything if you will have data 
+
+data can only be stored in file ( file can be only created in folder (directory))
+
+
+
+mkdir (to make directory/folder)
+
+cmd prompt we only write in cmd 
+
+mkdir  "folder name/ argument"  
+			there is no space limit..
+
+
+we can print calendcer f any year, date, day. 
+	#cal 2025 
+#ls ( will show the directory or file in the file in the folder/directory )
+
+colors have their own mean it can be of different types but it can be any of... 
+		blue-- directory
+		white---
+
+#ls -F (hyphen is also an options it is like flag)
+	single hyphen means short double -- means long
+
+-F ( we don't know the file or folder denote me)
+
+		(program, file, folder, binary)
+
+
+#unalias ls ( to remove the existing settings like removing the color or any settings)
+
+
+#ls -l (gives the detail of all the files creation time date and permissions) 
+		*the time shows is modification time 
+
+	we cannot see or find the creation time of file or folder.
+
+# gedit vimalw ( we can create files and can write inside like notepad, we can give extension time also)
+
+---------- arrow keys can find the history
+
+
+#ls -l vimallw ( we can see the file details by typing it's name)
+
+				************command [option] arguments***************
+# touch aa ( to create the file it creates the empty file)
+
+
+			*** we always need commands to do anything in the linux*******
+
+
+# > lw123.txgt ( by this symbol we can create the file === exceptions)
+
+
+# cd ( to change directory)
+# cd lwfolder1
+			--- use tabs to autocomplete------
+#ls to see what inside the folder is 
+
+# touch a ( to wrie inside the file) 
+# touch {1..10} ( use range can also help accordingly ) 
+
+
+			---- shell ( if cursor blinks it means someone is listening ) 
+			---- the cursor is called shell also )
+
+
+#mkdi d{1...10} (folder will be created 1 to 10) at once
+#rm to remove file or directory
+
+#rm 0f to remove file or directory forcefully..
+
+#rm -f d{1..10} this command will help to remove file or dir without permission like yes no
+
+
+#ls hello.txt ( can find the file is present or not ) 
+
+		... we can do any programming in Linux terminal ...
+#echo "Vimal" ( to print the same Vimal) it seems it a string
+
+=-----variable creation
+
+#x = 5
+#echo x
+x
+
+#echo $x
+5
+
+
+# y = date
+#echo $y 
+date
+
+#y = `date` ( backticks to tell it like function ) 
+
+# echo $y
+Wed May 15 --------------
+
+// pipe symbol = text output can print anywhere like WhatsApp email..
+
+# date | espeak-ng 
+
+#z="vimal"
+#echo $z
+vimal
+#echo $z | espeak-ng
+# it will speak the name of variable 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

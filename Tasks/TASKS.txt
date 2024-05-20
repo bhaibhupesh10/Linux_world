@@ -1,0 +1,22 @@
+TASKS
+ 
+how can you change the color of the directory or file names 
+
+real world app should launch with programming lang. 
+
+1. How to read the entire RAM.
+
+2. Linux all command have to run using python.
+
+2. Will create our own search engine (if a person will come to our form and search)  then the search query will go and find from any of search engines inn the market like google, yahoo, bing etc. and will give the best result to the us. 
+
+
+3. write a program to send WhatsApp message using python.
+
+4. .. email.
+5. .. sms text.
+6. .. type on python and it will go to google and search it there and give the four first url from the search result.
+7. .. coordinates current coordinates find it. and check the location of local area. 
+8. .. speak the output when we use print() 
+9. .. change the text in audio and then send the output in the WhatsApp or email.
+

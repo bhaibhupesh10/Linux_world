@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    flex-direction: column; /* Arrange header at the top and content below */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #0482c6ab;
+    padding-top: 60px; /* Add top padding to account for fixed header height */
+    box-sizing: border-box;
+}
+
+.container {
+    text-align: center;
+}
+
+video {
+    width: 640px;
+    height: 480px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #000;
+}
+
+header {
+    display: flex;
+    justify-content: flex-start; /* Aligns items to the start horizontally */
+    align-items: center; /* Centers items vertically */
+    padding: 10px 20px; /* Adds padding around the header */
+    background-color: #f8f9fa; /* Light gray background color for the header */
+    width: 100%; /* Ensures the header takes the full width of the viewport */
+    height:20px;
+    box-sizing: border-box; /* Includes padding in the element's total width and height */
+    position: fixed; /* Fixes the header at the top of the page */
+    top: 0; /* Positions the header at the top */
+    left: 0; /* Ensures the header starts from the left edge */
+    z-index: 1000; /* Keeps the header on top of other elements */
+}
+
+.logo {
+    max-width: 100px; /* Adjust the width as needed */
+    margin-top: 100px;
+    height: auto; /* Maintains aspect ratio */
+}
