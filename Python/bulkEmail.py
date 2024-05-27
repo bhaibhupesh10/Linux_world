@@ -31,7 +31,7 @@ body = "This is a test email sent in bulk."
 smtp_server = "smtp.gmail.com"
 smtp_port = 587
 login = "aakarpawar7489@gmail.com"
-password = "yhbc jymk iosz spjk" # Be cautious with hardcoding passwords
+password = "yhbc jymk iosz spjj" # Be cautious with hardcoding passwords
 
 # List of recipient emails
 recipient_list = [
