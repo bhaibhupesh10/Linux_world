@@ -17,7 +17,7 @@ data = b''
 payload_size = struct.calcsize("L")
 
 # Capture video from the webcam
-video = cv2.VideoCapture(0, cv2.CAP_DSHOW)
+video = cv2.VideoCapture(1, cv2.CAP_DSHOW)
 
 while True:
     try:

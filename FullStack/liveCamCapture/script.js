@@ -11,7 +11,7 @@ navigator.mediaDevices.getUserMedia({ video: true })
         video.srcObject = stream;
         video.play();
     })
-    .catch(err => {
+    .catch(err => { 
         console.error("Error accessing the camera: ", err);
     });
 
